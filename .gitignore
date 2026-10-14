@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Datasets and large files
+dataset/
+*.csv
+*.zip
